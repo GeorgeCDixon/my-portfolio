@@ -253,7 +253,7 @@ export default function Portfolio() {
               <span>Call</span>
             </a>
             <a 
-              href="https://linkedin.com/in/GeorgeCDixon" 
+              href="https://www.linkedin.com/in/george-c-dixon-075346159/" 
               target="_blank" 
               rel="noopener noreferrer" 
               className={`flex items-center space-x-2 px-6 py-3 rounded-lg border-2 ${isDarkMode ? 'border-gray-700 hover:bg-gray-800' : 'border-gray-300 hover:bg-gray-100'} transition-all touch-manipulation cursor-pointer`}
