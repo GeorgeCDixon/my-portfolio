@@ -86,9 +86,12 @@ export default function Portfolio() {
       company: 'Omak Technology',
       period: 'Mar 2024 - Present',
       projects: [
-        'Cloud-Based POS System / ERP Enhancements - Contributed to ongoing feature development using Electron, Vue.js, Node.js, and CouchDB',
-        'Android Waiter Ordering Application - Designed and developed mobile version using React Native',
-        'Mobile POS System Development - Converting POS web app to mobile version using React Native and Node.js'
+        'Contributed to the development and enhancement of cloud-based POS/ERP systems using Electron, Vue.js, Node.js, and CouchDB (NoSQL).',
+        'Built and optimized RESTful APIs to support billing, payment, inventory, and customer management and all other modules',
+        'Developed and maintained mobile applications using React Native, transforming existing web modules into responsive mobile solutions.',
+        'ntegrated mobile and backend systems to ensure seamless data synchronization and improved workflow efficiency.',
+        'Conducted minor code reviews for junior developers to uphold code quality and best practices.',
+        'Independently managed production releases, taking full ownership of deployment and ensuring stable and successful rollouts.'
       ]
     },
     {
