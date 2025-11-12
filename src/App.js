@@ -234,7 +234,7 @@ export default function Portfolio() {
             </h1>
             <p className="text-2xl md:text-3xl text-cyan-400 mb-6">Software Engineer</p>
             <p className={`text-lg md:text-xl mb-8 ${isDarkMode ? 'text-gray-300' : 'text-gray-600'}`}>
-              Building scalable cross-platform mobile and web applications with 2+ years of experience
+              Building scalable cross-platform mobile and web applications with 3 years of experience
             </p>
           </div>
 
@@ -281,7 +281,7 @@ export default function Portfolio() {
           <div className={`${isDarkMode ? 'bg-gray-900' : 'bg-gray-50'} rounded-xl p-8 border ${isDarkMode ? 'border-gray-700' : 'border-gray-200'}`}>
             <p className={`text-lg leading-relaxed ${isDarkMode ? 'text-gray-300' : 'text-gray-700'}`}>
               Software Engineer with hands-on experience in building scalable cross-platform mobile and web applications 
-              using React, Vue.js, React Native, Node.js, and modern frameworks over the last 2 years. Skilled in full-stack 
+              using React, Vue.js, React Native, Node.js, and modern frameworks over the last 3+ years. Skilled in full-stack 
               development, API integrations, and CI/CD pipelines. Proven ability to deliver robust solutions aligned with 
               system performance, security, and business goals in fast-paced environments.
             </p>
